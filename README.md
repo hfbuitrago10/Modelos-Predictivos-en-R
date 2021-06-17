@@ -6,4 +6,6 @@ Este es el repositorio para el curso "Máquinas y Cientítico/as Sociales: ¿Có
 
 Estoy usando la versión 4.0.5 de R.
 
-Actualicé la mayoría de los paquetes el 17/5/2021. Algunos los actualicé un poco mas recientemente. Tuve problemas actualizando caret, stringi, xfun y tibble. Pueden instalarlos sin compilar o type="mac.binary" o type="binary".
+Actualicé la mayoría de los paquetes el 17/5/2021. Algunos los actualicé un poco mas recientemente. Tuve problemas actualizando `caret`, `stringi`, `xfun` y `tibble`. Pueden instalarlos sin compilar o `type="mac.binary"` o `type="binary"`.
+
+Además de los paquetes incluidos en los scripts en este repositorio, puede que hagamos ejercicios del textbook de James et al. En ese caso, necesitarían los paquetes que ellos usen y sus datos, que vienen en el paquete `ISLR`.
