@@ -1,4 +1,5 @@
 # Model selection
+# Emilio Lehoucq
 
 # Setting parameters ------------------------------------------------------
 

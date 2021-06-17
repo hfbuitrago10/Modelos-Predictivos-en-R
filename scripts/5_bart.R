@@ -1,4 +1,5 @@
 # BART
+# Emilio Lehoucq
 
 # Setting parameters ------------------------------------------------------
 

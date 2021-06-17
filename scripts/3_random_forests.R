@@ -1,4 +1,5 @@
 # Random forests
+# Emilio Lehoucq
 
 # Loading packages --------------------------------------------------------
 

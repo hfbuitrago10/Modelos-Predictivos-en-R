@@ -1,4 +1,5 @@
 # Data cleaning
+# Emilio Lehoucq
 
 # Loading packages --------------------------------------------------------
 

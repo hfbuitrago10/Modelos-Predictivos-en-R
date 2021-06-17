@@ -1,4 +1,5 @@
 # Regularized models
+# Emilio Lehoucq
 
 # Loading libraries -------------------------------------------------------
 
