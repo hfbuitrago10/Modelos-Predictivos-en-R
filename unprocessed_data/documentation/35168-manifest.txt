@@ -1,0 +1,75 @@
+File Manifest for ICPSR 35168
+
+United States. Bureau of the Census, United States. Bureau of Labor
+Statistics, and National Endowment for the Arts. Survey of Public
+Participation in the Arts (SPPA), 2012 [United States]. ICPSR35168-v1. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2014-12-11. http://doi.org/10.3886/ICPSR35168.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35168-descriptioncitation.pdf       -       -         -       2018-08-10  -
+
+    35168-related_literature.txt        -       -         -       daily       -
+
+    35168-manifest.txt                  -       -         -       daily       -
+
+    35168-Report-QuickFacts1.pdf        -       -         -       2015-01-05  dcb3ca5a0616c9496d414ee425b84cb0
+
+    35168-Report-QuickFacts2.pdf        -       -         -       2015-01-05  7fdf931f22d0318000c7d9e5f760ee92
+
+
+DS0001 SPPA 2012, All CPS and SPPA Variables
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35168-0001-Codebook.pdf             -       -         -       2015-01-09  3fe41348b351990f1ace7897b4d2e658
+
+    35168-0001-Data.dta                 -       35,735    802     2015-01-05  edc64f1af05f4a5a226eb68f01aab0da
+
+    35168-0001-Data.rda                 -       35,735    802     2015-01-05  cb3093b0d0ec4fa1294231d51e245f77
+
+    35168-0001-Data.sav                 -       35,735    802     2015-01-05  f38705f52b4dc98b1419ecb3afae3000
+
+    35168-0001-Data.stc                 -       35,735    802     2015-01-05  1f900c7026210b1741a1e9863a05e119
+
+    35168-0001-Data.tsv                 -       35,735    802     2015-01-05  600dc78ccde6562397fe238900ddfb0a
+
+    35168-0001-Data.txt                 1774    35,735    802     2015-01-05  df9bb741f973ad37c7bbdd4967b73e32
+
+    35168-0001-Data.xlsx                -       unknown   unknown 2015-10-22  8f99a2e31a22d27fec1cecd9a5f7f5a3
+
+    35168-0001-Questionnaire.pdf        -       -         -       2015-10-22  388ffa933db2f1b24d48bdc7f5645cc5
+
+    35168-0001-Report.pdf               -       -         -       2015-10-22  7def39846fdad75f2ffaed896905d7af
+
+    35168-0001-Setup.dct                -       -         -       2015-10-22  ccd79850427f8db8673ab76bb3524a97
+
+    35168-0001-Setup.do                 -       -         -       2015-10-22  8466803cb6bbcbcb536d113b21f7a538
+
+    35168-0001-Setup.sas                -       -         -       2015-10-22  e960854f39bcdc1cfe70c72f0b12e755
+
+    35168-0001-Setup.sps                -       -         -       2015-10-22  b6e6f7ee09e2e6b518f53919ecc63696
+
+    35168-0001-Supplemental_syntax.do   -       -         -       2015-10-22  ef816f474c59bdccbb181d01c6aac743
+
+    35168-0001-Supplemental_syntax.sas  -       -         -       2015-10-22  5a78543198e7f94fb9866c3faf680e17
+
+    35168-0001-User_guide.pdf           -       -         -       2015-10-22  f4ccadfe1dfd28cb77f7627fc9bf8287
+
+
+Version History
+
+2015-10-22 An updated version of the Report "How a Nation Engages with Art"
+(in PDF) is being released for this data collection.  2015-01-12 The Excel
+file has been updated for this data collection.  2015-01-09 2015-01-05
+Variable groups, some variable labels, and the ICPSR codebook have been
+updated in this data collection. Also, two Quick Facts (infographics) have
+been added to the documentation for this data collection.
