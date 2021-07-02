@@ -1,6 +1,6 @@
-# modelos-predictivos
+# Modelos predictivos en R
 
-Este es el repositorio para el curso "Máquinas y Cientítico/as Sociales: ¿Cómo Usar el Aprendizaje de Máquinas a Nuestro Favor?", Escuela de Verano 2021, Facultad de Ciencias Sociales, Universidad de los Andes, Profesor Emilio Lehoucq.
+Este es el repositorio del curso "Modelos Predictivos para Ciencias Sociales", Escuela de Verano 2021, Facultad de Ciencias Sociales, Universidad de los Andes, Profesor Emilio Lehoucq.
 
 ## Software
 
